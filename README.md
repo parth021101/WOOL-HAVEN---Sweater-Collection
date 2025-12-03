@@ -19,7 +19,7 @@ This project is a modern, elegant front-end landing page for a fictional premium
 ## Live Demo
 
 Explore the live version of the WOOL HAVEN Landing Page here:
-woolheven.netlify.app
+[woolheven.netlify.app](https://woolheven.netlify.app/)
 
 ## Future Enhancements (Planned)
 
