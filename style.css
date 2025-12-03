@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -29,13 +29,14 @@ a {
   text-transform: capitalize;
   list-style-type: none;
   text-decoration: none;
-  font-family: Poppins, sans-serif;
   color: #000;
+  font-family: Poppins, sans-serif;
 }
 
 .nav-center h2 {
   font-size: 2.2rem;
   text-transform: uppercase;
+  font-family: "Playfair", serif;
 }
 
 /* Title */
@@ -46,10 +47,11 @@ a {
   padding: 0 2.5rem;
 }
 h1 {
-  font-size: 15rem;
-  font-weight: 400;
+  /* font-size: 20rem; */
+  font-size: 16rem;
+  font-weight: 300;
   text-transform: capitalize;
-  font-family: Poppins, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 /* Images */
@@ -106,8 +108,8 @@ h1 {
   justify-content: space-between;
 }
 #bottom-bar span {
-  font-size: 1.5em;
-  /* font-family: Poppins; */
+  font-size: 1.8rem;
+  font-weight: 500;
   font-style: italic;
 }
 #bottom-bar p {
@@ -124,4 +126,5 @@ h1 {
 #bottom-bar p i {
   margin-bottom: 5px;
   font-size: 16px;
+  font-family: Poppins, sans-serif;
 }
