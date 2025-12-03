@@ -5,7 +5,7 @@ This project is a modern, elegant front-end landing page for a fictional premium
 ## Features
 
 * **Sophisticated Typography Hierarchy:** Expertly paired Playfair Display, Montserrat, and Poppins fonts to create visual contrast and establish brand identity.
-* **Responsive Design:** Implemented using modern CSS techniques (Flexbox and CSS Grid) to ensure seamless adaptability and optimal viewing on desktop, tablet, and mobile screens.
+* **Responsive Design:** Implemented using modern CSS techniques Flexbox to ensure seamless adaptability and optimal viewing on desktop, tablet, and mobile screens.
 * **Semantic HTML5:** Structured content using appropriate HTML5 elements for better accessibility and SEO.
 * **Product Showcase Grid:** Clean layout displaying curated sweater collections with professional product photography.
 * **Minimalist Aesthetic:** Black, white, and beige color palette conveying premium brand perception.
