@@ -10,18 +10,18 @@ This project is a modern, elegant front-end landing page for a fictional premium
 * **Product Showcase Grid:** Clean layout displaying curated sweater collections with professional product photography.
 * **Minimalist Aesthetic:** Black, white, and beige color palette conveying premium brand perception.
 
-##Technologies Used
+## Technologies Used
 
 * **HTML5:** For semantic markup and content structure.
 * **CSS3:** For styling, layout (Flexbox, CSS Grid), typography, and responsive design.
 * **Google Fonts:** Montserrat, Playfair Display, and Poppins for professional typography.
 
-##Live Demo
+## Live Demo
 
 Explore the live version of the WOOL HAVEN Landing Page here:
 woolheven.netlify.app
 
-##Future Enhancements (Planned)
+## Future Enhancements (Planned)
 
 * **JavaScript Interactivity:** Implement dynamic product filtering, image carousels, and smooth scroll animations.
 * **Shopping Cart Functionality:** Add cart system with add/remove items and checkout flow.
