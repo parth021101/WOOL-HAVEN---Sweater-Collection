@@ -13,7 +13,7 @@ This project is a modern, elegant front-end landing page for a fictional premium
 ## Technologies Used
 
 * **HTML5:** For semantic markup and content structure.
-* **CSS3:** For styling, layout (Flexbox, CSS Grid), typography, and responsive design.
+* **CSS3:** For styling, layout Flexbox, typography, and responsive design.
 * **Google Fonts:** Montserrat, Playfair Display, and Poppins for professional typography.
 
 ## Live Demo
